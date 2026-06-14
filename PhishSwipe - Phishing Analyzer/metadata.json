@@ -1,6 +1,0 @@
-{
-  "name": "PhishSwipe Dashboard",
-  "description": "An enterprise-grade, fully interactive email security simulation arena and real-world email threat scanner with procedurally generated cases.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
