@@ -623,7 +623,7 @@ footer p { font-size:0.78rem; color:rgba(255,255,255,0.22); }
 
 <section class="content-section">
   <p class="sec-eyebrow">What to implement</p>
-  <h2 class="sec-title">The six things your code does</h2>
+  <h2 class="sec-title">The six things code does</h2>
   <p class="sec-sub">Each step teaches a real idea in cryptography, not just Python syntax.</p>
 
   <div class="cards" id="cards-main">
