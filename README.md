@@ -1,4 +1,4 @@
-# Cybersecrity Internship Projects
+# Cybersecrity Projects
 
 # 1. Password Strength Checker
 
